@@ -1,0 +1,18 @@
+<AppLayout>
+    orientation: "vertical"
+    Label:
+        text: "yo"
+    Button:
+        text: "Commencer"
+        on_press: root.create_initial_buttons()
+
+<Button>
+    text_size: self.size #Permet au texte de wrap
+    halign: 'center'
+    valign: 'middle'
+
+<Label>
+    text_size: self.size #Permet au texte de wrap
+    halign: 'center'
+    valign: 'middle'
+    markup: True

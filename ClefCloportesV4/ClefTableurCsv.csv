@@ -1,0 +1,60 @@
+NumChoix,Critere,Espece,Notes,Image
+1,Espèce capable de volvation ,,,Images/1.jpg
+2,Espèce incapable de volvation ,,,Images/2.jpg
+11,"Uropodes allongés et en pointe dépassant nettement de la bordure du pléon (Figure 4), cinq paires de pseudotrachées, granulations quasiment invisibles sauf de très près, aspect rappelant un Porcellio en plus bombé. ",[b]Cylisticus convexus[/b],"Habitats variés, semble peu commun dans la région",Images/11.jpg
+12,"Uropodes très courts et rectangulaires, ne dépassant pas ou peu de la bordure du pléon",,,Images/12.jpg
+121,"Lame frontale saillante et fine, coloration claire et translucide marquée d’une bande sombre centrale et de deux bandes sombres surmontant l’extrémité des péréionites et des pléonites. Les individus ont tendance à s’assombrir avec l’âge.",Armadillidium nasatum,"Habitats variés, espèce commune",Images/121.jpg
+122,"Lame frontale saillante et large, existe en deux colorations principales, totalement gris sombre ou avec des bandes plus claires sur les flancs, présente parfois des taches jaune pâle, aspect légèrement aplati",Armadillidium depressum,"Normalement côtière, les observations faites dans la région résultent d’introduction",Images/122.jpg
+123,Lame frontale peu ou pas saillante,,,Images/123.jpg
+1231,"Espèce très colorée et contrastée, bord des péréionites brun-rouge contrastant nettement avec le reste, présence de nombreuses taches jaune pâle donnant un aspect marbré",Armadillidium pictum,"Boisements frais et âgés, semble rare dans la région",Images/1231.jpg
+1232,"Espèce à coloration variable, bord de péréionites d’une autre couleur ne contrastant pas avec le reste",,,
+12321,"Présence de deux petites bosses à l’avant de la tête (critère mieux visible de face) (Figure 12); motifs assez mal définis allant du gris uni au marbré de rouille avec, parfois avec une fine ponctuation jaune pâle",Armadillidium opacum,"Boisements frais et âgés, visiblement rare dans la région",Images/12321.jpg
+12322,"Pas de petites bosses à l’avant de la tête, coloration très variable",Armadillidium vulgare,"Habitats variés, espèce commune",Images/12322.jpg
+21,Très gros yeux composés de très nombreux ocelles,Ligidium hypnorum,"Habitats à forte humidité ambiante, généralement proches de l’eau, le plus souvent en bord de mare ou de ruisseau",Images/21.jpg
+22,Yeux nettement plus petits,,,Images/22.jpg
+221,"Flagelle antennaire composé de nombreux articles difficilement visibles à l’oeil nu, le tout prenant une forme de fouet (s’affinant de manière régulière pour finir en pointe)",,,Images/221.jpg
+222,Flagelle antennaire d’une autre forme,,,Images/222.jpg
+2210,"[i]Attention ! Cette famille rassemble majoritairement de très petites espèces, dont un grand nombre d’espèces endogées. En dehors de quelques espèces facilement reconnaissables, il peut être très délicat voire parfois impossible d’en différencier les genres ou les espèces sans loupe binoculaire[/i]",Note,,
+2211,"Coloration allant du rouge-orange au rosâtre voire au blanc. Présence d’une ligne jaune sur les deux tiers inférieurs, celle-ci s’élargit sur le pléon lui donnant la forme d’une hache à double tranchant",Androniscus dentiger,"Espèce endogée, de préférence sur un substrat rocheux et calcaire. Les populations en milieu souterrain peuvent présenter un grand nombre d’individus fortement décolorés",Images/2211.jpg
+2212,Autre,,,
+22121,"Péréionites bosselés et granuleux, pléon non bosselé",Haplophthalmus danicus,"Espèce endogée, souvent dans du bois pourri",Images/22121.jpg
+22122,"Péréionites bosselés et granuleux, premier pléonite bosselé",Autres Haplophthalmus,,Images/22122.jpg
+22123,Péréionites simplement granuleux,Genre Trichoniscoides,"Espèce endogée, remonte à la surface après de longues périodes de pluie gorgeant le sol d’eau",Images/22123.jpg
+22124,Péréionites lisses,,,Images/22124.jpg
+221241,Yeux à plusieurs ocelles,Genre Trichoniscus,,
+221242,Yeux à un seul ocelle,,,Images/221242.jpg
+2212421,Zone jaunâtre sur les premiers pléonites,Hyloniscus riparius,"Berges des rivières en zone inondable, plus rarement sur les berges de plan d’eau",Images/2212421.jpg
+2212422,Absence de zone jaunâtre sur les premiers pléonites,Oritoniscus flavus,,
+2221,"Petite espèce (maximum 4mm), coloration totalement blanche",,,
+2222,Autre,,,
+22211,"Segment antennaire précédant le flagelle très large, deux fois plus épais que le flagelle",Platyarthrus hoffmannseggi,Espèce myrmécophile fréquentant les colonies de diverses espèces de fourmis,Images/22211.jpg
+22212,Segment antennaire précédant le flagelle à peine plus épais que le flagelle,Trichorhina tomentosa,"Espèce introduite, en France elle n’est trouvée que dans des serres. Confusion possible avec des juvéniles d’autres espèces, faire attention au contexte",Images/22212.jpg
+22221,Délimitation entre le pléon et le péréion peu marquée,,,Images/22221.jpg
+22222,Délimitation entre le péréion et le pléon très nette,,,Images/22222.jpg
+222211,"Grosse espèce (jusqu’à 18mm), très aplatie et large, extrémités des péréionites gris translucide, surmontées d’un point de coloration similaire. La face dorsale est souvent ornée de deux rangées longitudinales de points jaune pâle",Oniscus asellus,"Habitats variés, toujours assez humides, espèce commune",Images/222211.jpg
+222212,Autre,,,
+2222121,"Cinq paires de pseudotrachées (Figure 23), aspect rappelant un Porcellio, coloration grisâtre, souvent plus ou moins marbrée de brun rouille. Bande longitudinale translucide au-dessus de l’extrémité de péréionites",Trachelipus rathkii,"Habitats humides, plus souvent en milieu ouvert (bords de mares, berges de cours d’eau, prairies humides …), parfois dans des habitats moins typiques",Images/2222121.jpg
+2222122,Deux ou trois paires de pseudotrachées,,,Images/2222122.jpg
+22221221,Corps lisse d’aspect luisant,,,Images/22221221.jpg
+22221222,Corps plus ou moins granuleux,,,Images/22221222.jpg
+222212211,"Coloration générale hétérogène, lobes latéraux peu développés",Porcellio gallicus,"Habitats forestiers avec une forte hygrométrie (mousse, litières forestières…), souvent proches de mares. Semble peu commune dans la région",Images/222212211.jpg
+222212212,"Coloration générale unie, l’extrémité des péréionites est parfois surmontée d’une petite zone translucide, lobes latéraux développés",Porcellio laevis,Espèce anthropophile très peu observée dans la région où sa présence résulte d'introduction,Images/222212212.jpg
+222212221,"Second segment antennaire avec une épine marquée. Coloration générale typique, tête nettement plus sombre que le reste du corps, corps généralement jaune claire marqué en son centre par une bande sombre longitudinale et par deux lignes de taches jaune pâle (Figure 29). Une forme sombre existe mais ne semble pas très représentée dans la région",Porcellio spinicornis,"Habitats secs et rocheux, espèce typique des vieux murs et des tas de pierres sèches, plus rarement sur du bois sec",Images/222212221.jpg
+222212222,Autre,,,
+2222122221,"Lobes latéraux très développés, corps large et aplati, coloration gris uni",Porcellio dilatatus,"Habitats modérément humides, majoritairement souterrains et souvent liés à l’activité humaine (caves, carrières, grottes, vieux bâtiments…). Plus rarement à la surface sous des pierres",Images/2222122221.jpg
+2222122222,"Lobes latéraux de plus petite taille, corps plus étroit",,,
+22221222221,"Granulosités très marquées (porte bien son nom de cloporte rugueux), articulation du premier article des uropodes droite. Coloration très variable",Porcellio scaber,"Habitats variés, semble avoir une préférence pour une humidité modérée à faible, espèce commune",Images/22221222221.jpg
+22221222222,"Granulosité faible avec un aspect émoussé lui donnant un aspect plus bosselé que rugueux. Articulation du premier article des uropodes oblique. Coloration générale allant du brun clair au jaunâtre, extrémités des péréionites, des pléonites et des uropodes souvent orangées. Présente souvent des taches jaune clair plus ou moins étendues",Porcellio monticola,"Habitats boisés, majoritairement sous des écorces décollées sur des arbres encore sur pied, plus rarement sur des troncs couchés",Images/22221222222.jpg
+222221,Corps lisse d’aspect luisant,,,Images/222221.jpg
+222222,Corps légèrement granuleux,,,Images/222222.jpg
+2222211,Pléon à bords à peine dentés vu de dessus,,,Images/2222211.jpg
+2222212,Pléon à bords très nettement dentés vu de dessus,,,Images/2222212.jpg
+22222111,"Corps étroit, coloration brune rougeâtre, extrémités des péréionites marquées d’une bande brune et surmontées d’une tache translucide. Présence d’une fine pilosité, plus visible sur le pléon",Chaetophiloscia sicula,"Habitats ouverts, espèce en forte expansion récemment découverte dans la région",Images/22222111.jpg
+22222112,"Extrémités (antennes, pattes et uropodes) fines et allongées donnant un aspect “ Monté sur échasse ”, pilosité très visible lui donnant un aspect velu, en particulier sur le pléon, extrémité des péréionites généralement marquées de brun clair",Chaetophiloscia cellaria,"Habitats majoritairement souterrains (caves, carrières, entrées de grottes…) parfois dans des habitats de substitution comme l’intérieur de tas de pierres humides. Semble avoir une préférence pour des substrats minéraux",Images/22222112.jpg
+22222121,Bordure du péréion nettement plus claire que le reste. Tête généralement nettement plus sombre que le corps et souvent marquée d’un point jaune à l’arrière,Philoscia muscorum,"Habitats variés, espèce commune",Images/22222121.jpg
+22222122,"Bordure du péréion colorée contrastant peu avec le reste, présente souvent une constellation de points jaunes",Philoscia affinis,"Habitats boisés, espèce récemment découverte dans la région où elle n’est connue que du massif de Rambouillet",Images/22222122.jpg
+2222221,"Trois paires de pseudotrachées, bordure du dernier péréionite ondulée, en forme de cloche",Orthometopon planum,"Habitats variés, espèce récemment découverte dans la région, actuellement connue de deux stations en bord de Seine et de Marne",Images/2222221.jpg
+2222222,"Deux paires de pseudotrachées, bordure du dernier péréionite formant un arc de cercle",,,Images/2222222.jpg
+22222221,"Faible quantité de pruine sur le corps, coloration en patchwork, possède une ligne transversale sur le tiers supérieur des péréionites",Porcellionides cingendus,"Habitats variés, espèce probablement issue d’introduction dans la région où elle n’a que très peu été observée",
+22222222,"Extrémité du 4ème segment antennaire blanche. Généralement une grande quantité de pruine sur le corps, coloration unie allant du gris au violacé avec parfois des tonalités plus fantaisistes",Porcellionides pruinosus,"Habitats variés, souvent liés à l’activité humaine",Images/22222222.jpg
+22222223,"Présence de pruine sur le corps, péréionites tachés de blanc avant leurs extrémités, possède une ligne transversale sur le tiers inférieur des péréionites",Porcellionides sexfasciatus,"Habitats variés, espèce probablement issue d’introduction dans la région où elle n’a que très peu été observée",
